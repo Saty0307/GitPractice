@@ -1,0 +1,1 @@
+Let's say now I have modified service 1 directly in the master branch!
