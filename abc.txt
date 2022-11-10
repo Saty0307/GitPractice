@@ -1,3 +1,0 @@
-This is the first file that is created!!
-Lets try to create some conflicts
-
