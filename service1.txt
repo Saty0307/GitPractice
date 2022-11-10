@@ -1,2 +1,8 @@
+
 Let's say I have written something in the file and have modified the code for the service
+
 Suppose i have made some changes locally not yet pushed
+
+Let's say now I have modified service 1 directly in the master branch!
+
+
